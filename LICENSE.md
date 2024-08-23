@@ -54,7 +54,6 @@ hancel.org
 miraheze.org
 zhuichaguoji.org
 fawanghuihui.org
-hopto.org
 amnesty.org
 hrw.org
 irmct.org
@@ -176,3 +175,5 @@ vpn6688.com
 hry1.com
 zhm.me
 zhonghua.live
+pokeryun
+suoso.cc
