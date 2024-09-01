@@ -177,4 +177,7 @@ zhm.me
 zhonghua.live
 pokeryun
 pokercloud
+pkcd.info
+www.pkcd.info
 suoso.cc
+
