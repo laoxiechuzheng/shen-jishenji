@@ -91,32 +91,6 @@ abc.net.au
 funmart.beanfun.com
 gashpoint.com
 # 政府、学校、金融机构
-gov
-edu
-alipay.com
-tenpay.com
-unionpay.com
-yunshanfu.cn
-icbc.com.cn
-ccb.com
-boc.cn
-bankcomm.com
-abchina.com
-cmbchina.com
-psbc.com
-cebbank.com
-cmbc.com.cn
-pingan.com
-spdb.com.cn
-bank.ecitic.com
-cib.com.cn
-hxb.com.cn
-cgbchina.com.cn
-jcbcard.cn
-pbccrc.org.cn
-adbc.com.cn
-gamepay.com.tw
-# 中国大陆不适用代理的域名
 # 机场域名
 www.xn--9kq49wbqk.site
 moluo.cloud
