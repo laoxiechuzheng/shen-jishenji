@@ -91,6 +91,7 @@ abc.net.au
 funmart.beanfun.com
 gashpoint.com
 # 政府、学校、金融机构
+gov
 # 机场域名
 www.xn--9kq49wbqk.site
 moluo.cloud
@@ -153,3 +154,5 @@ pokeryun
 pokercloud
 pkcd.info
 suoso.cc
+ffq.la
+ffqla.com
